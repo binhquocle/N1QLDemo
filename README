@@ -1,0 +1,5 @@
+1. crm_cb.tar - Unzip and run cbbackupmgr to restore it to a `crm1` bucket.
+      i.e. .\cbbackupmgr.exe restore -a C:\Users\Administrator\Downloads\datanew\data\backups\ -r cb-crm -c 127.0.0.1:8091 -u Administrator -p password
+2. crm_json.zip - All the json documents that can be restore to a MDB instance.
+3. crm_mysql.zip - MySQL dump.
+4. N1QL_Demo1   - this is the PowerBI file. Install PowerBI desktop to open this.
